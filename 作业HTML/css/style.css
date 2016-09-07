@@ -1,0 +1,72 @@
+.person{
+  height: 100px;
+  margin-left: 100px;
+  text-align: center;
+  background-color: skyblue;
+  font-size: 30px;
+  font-family: arial,"Hiragino Sans GB","Microsoft Yahei",sans-serif;
+}
+.picture{
+  margin-left: 0;
+  margin-top: -100px;
+}
+.touxiang{
+  width: 100px;
+  height: 100px;
+}
+nav{
+  text-align: center;
+}
+nav a{
+  text-decoration: none;
+  display: inline-block;
+  height: 20px;
+  line-height: 17px;
+  width: 80px;
+  font-size: 14px;
+}
+.introduce{
+  text-indent: 2em;
+  margin-top: 30px;
+  background-color: #e1e2e3;
+}
+.school{
+  margin-top: 40px;
+}
+.tit{
+  text-indent: 2em;
+}
+.tit1{
+  text-indent: 2em;
+}
+.t1{
+  width: 48%;
+}
+.t2{
+  width: 48%;
+}
+
+.hometown{
+  margin-top: 40px;
+}
+
+.jd1{
+  width: 48%;
+  height: 80px;
+}
+.jd2{
+  width: 48%;
+  height: 80px;
+}
+.zs1{
+  width: 48%;
+  text-align: center;
+  font-size: 12px;
+}
+.zs2{
+  margin-left: 50%;
+  margin-top: -26px;
+  width: 48%;
+  text-align: center;
+  font-size: 12px;
+}
